@@ -41,7 +41,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/ evelyn-santos-4515ab242" target="_blank">
+  <a href="https://www.linkedin.com/in/evelyn-santos-4515ab242/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbAFY8xIsQy2RggvaS6F%2FXA%3D%3D" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
