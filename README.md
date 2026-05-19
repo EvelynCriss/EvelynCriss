@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Technologies and tools::</p>
+<p align="left">Technologies and tools:</p>
 
 ###
 
